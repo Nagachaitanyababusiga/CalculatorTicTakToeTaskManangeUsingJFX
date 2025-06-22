@@ -12,7 +12,7 @@ This repository contains three beginner-to-intermediate level **JavaFX projects*
 
 ```
 .
-├── TicTakToe          # A classic 2-player game with JavaFX UI
+├── TicTakToe.java          # A classic 2-player game with JavaFX UI
 ├── ToDoList1.java         # A basic task tracking app with CRUD features
 └── Calculator.java         # A simple calculator with GUI
 ```
@@ -25,7 +25,7 @@ Each folder is a standalone Maven JavaFX project.
 
 | Project         | Demo Video |
 |----------------|------------|
-| **Tic Tac Toe** | [🎥 Watch](https://drive.google.com/drive/folders/11ln2joxoGoCLB_JcmefCp4rk2FfnJulL?usp=sharing) |
+| **Tic Tac Toe** | [🎥 Watch](https://drive.google.com/file/d/1puBu2vikLZRN3SPVAHloVpibnBeH9YEg/view?usp=sharing) | 
 | **Task Manager**| [🎥 Watch](https://drive.google.com/file/d/1kMmWDsZ8c4wbG8ZROqSYqVb9dn4NPR8u/view?usp=sharing) |
 | **Calculator**  | [🎥 Watch](https://drive.google.com/file/d/1oBa3njKRfgZ8u52LO_kg_i72Y1wmnQsV/view?usp=sharing) |
 
