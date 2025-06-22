@@ -57,19 +57,20 @@ Each folder is a standalone Maven JavaFX project.
 
 ---
 
-## 📷 Screenshots (Optional)
+## 📷 Screenshots
 
-You can add screenshots here later:
 
 ```
 ### Tic Tac Toe
-![Tic Tac Toe Screenshot](path-to-screenshot)
+![Tic Tac Toe Screenshot1](./tictaktoe1.png)
+![Tic Tac Toe Screenshot2](./tictaktoe2.png)
 
 ### Task Manager
-![Task Manager Screenshot](path-to-screenshot)
+![Task Manager Screenshot1](./taskman1.png)
+![Task Manager Screenshot2](./taskman2.png)
 
 ### Calculator
-![Calculator Screenshot](path-to-screenshot)
+![Calculator Screenshot](./calci.png)
 ```
 
 ---
