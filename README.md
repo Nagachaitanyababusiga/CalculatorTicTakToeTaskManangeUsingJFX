@@ -44,16 +44,11 @@ Each folder is a standalone Maven JavaFX project.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/nagachaitanyababusiga/CalculatorTicTakToeTaskManangeUsingJFX.git
+   cd CalculatorTicTakToeTaskManangeUsingJFX
    ```
 
-2. **Navigate to any project directory:**
-   ```bash
-   cd tictactoe    # or taskmanager or calculator
-   ```
-
-3. **Run using Maven:**
+2. **Run using Maven:**
    ```bash
    mvn clean javafx:run
    ```
