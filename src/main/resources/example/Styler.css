@@ -1,0 +1,52 @@
+.root{
+    -fx-background-color: linear-gradient( #ed16a5,#f18315, #08cce2);
+    -fx-font-size: 10pt;
+}
+.button{
+    -fx-background-color: #220fef;
+    -fx-text-fill : #f7f0f0;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 5;
+    -fx-font-style: italic;
+}
+.label{
+    -fx-text-fill: #3a0303;
+    -fx-font-weight:bold;
+}
+.button-green{
+    -fx-background-color: #16ed28;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 5;
+}
+.button-red{
+    -fx-background-color: #ed1616;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 5;
+}
+.button-yellow{
+    -fx-background-color: #edc916;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 5;
+}
+.button-pink{
+    -fx-background-color: #f718bf;
+    -fx-text-fill : #100e0e;
+    -fx-font-size : 10pt;
+    -fx-background-radius : 5;
+}
+.list-cell{
+    -fx-background-color :#5e7fae;
+    -fx-text-fill : #050101;
+    -fx-font-weight: 900;
+}
+.list-cell:selected{
+    -fx-background-color :#ccef0a;
+    -fx-text-fill : #050101;
+}
+.text-field{
+    -fx-background-color :#5e4a8a;
+    -fx-text-fill : #f9fcfc;
+}

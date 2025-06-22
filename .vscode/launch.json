@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Alertbox",
+            "request": "launch",
+            "mainClass": "example/example.Alertbox",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "Calculator1",
+            "request": "launch",
+            "mainClass": "example/example.Calculator1",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "HelloApplication",
+            "request": "launch",
+            "mainClass": "example/example.HelloApplication",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "Menubar1",
+            "request": "launch",
+            "mainClass": "example/example.Menubar1",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "TaskManagerApp",
+            "request": "launch",
+            "mainClass": "example/example.TaskManagerApp",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "TicTakToe",
+            "request": "launch",
+            "mainClass": "example/example.TicTakToe",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "ToDoList",
+            "request": "launch",
+            "mainClass": "example/example.ToDoList",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "ToDoList1",
+            "request": "launch",
+            "mainClass": "example/example.ToDoList1",
+            "projectName": "tictaktoe"
+        },
+        {
+            "type": "java",
+            "name": "ToDoListManager3",
+            "request": "launch",
+            "mainClass": "example/example.ToDoListManager3",
+            "projectName": "tictaktoe"
+        }
+    ]
+}

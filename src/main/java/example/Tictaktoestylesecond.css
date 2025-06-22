@@ -1,0 +1,20 @@
+.root{
+    -fx-background-image: url('https://media.istockphoto.com/id/1299481774/vector/glowing-neon-line-tic-tac-toe-game-icon-isolated-on-black-background-vector.jpg?s=612x612&w=0&k=20&c=JRShmMKRyNIP1WOSMl73eo891NpwdfQNkyQPzZHefsg='); /* Replace with your image file */
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+.button{
+    -fx-text-fill : #f7f0f0;
+    -fx-background-radius : 15;
+    -fx-background-color: #32a4c6;
+}
+.button-x{
+    -fx-text-fill : #090909;
+    -fx-background-radius : 15;
+    -fx-background-color: #87821c;
+}
+.button-o{
+    -fx-text-fill : #090909;
+    -fx-background-radius : 15;
+    -fx-background-color: #b73fdb;
+}

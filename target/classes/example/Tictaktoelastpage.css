@@ -1,0 +1,14 @@
+.root{
+    -fx-background-image: url('https://media.istockphoto.com/id/1409171928/vector/vector-geometric-seamless-pattern-tic-tac-toe-background-with-colorful-elements.jpg?s=612x612&w=0&k=20&c=-ajjhQuE2dMvurrPcS_Oj1Q9-RbfAzR-N6paFM7RxY8='); /* Replace with your image file */
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+.button{
+    -fx-text-fill : #f7f0f0;
+    -fx-background-radius : 15;
+    -fx-background-color: #12b715;
+}
+.label{
+    -fx-text-fill: #0b0a0a;
+    -fx-font-weight:bold;
+}
